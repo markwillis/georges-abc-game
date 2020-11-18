@@ -1,0 +1,14 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.big-letter {
+	margin: 0;
+	font-size: 400px;
+}
+
+.letter-wrap {
+	background-color: whitesmoke;
+	color: black;
+}
